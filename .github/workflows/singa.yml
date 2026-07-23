@@ -1,4 +1,4 @@
-name: Build
+name: Build singa
 
 on:
   workflow_dispatch:
